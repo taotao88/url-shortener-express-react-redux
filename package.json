@@ -1,0 +1,30 @@
+{
+  "name": "url-shortener",
+  "author": "LL",
+  "email": "",
+  "license": "MIT",
+  "description": "A simple url shortener in Express/MongoDB/React/Redux.",
+  "dependencies": {
+    "axios": "^0.16.1",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.4",
+    "morgan": "^1.8.1",
+    "react": "^15.5.3",
+    "react-bootstrap": "^0.30.10",
+    "react-dom": "^15.5.3",
+    "react-redux": "^5.0.4",
+    "redux": "^3.6.0",
+    "redux-thunk": "^2.2.0",
+    "shortid": "^2.2.8"
+  },
+  "devDependencies": {
+    "react-scripts": "0.9.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
