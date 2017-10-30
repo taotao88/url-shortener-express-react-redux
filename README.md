@@ -1,5 +1,4 @@
 # This is for fun and practice. Not finished yet.
-If any issues or concerns, please email me. (email in package.json)
 
 ## Refer:
 ### create-react-app
